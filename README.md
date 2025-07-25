@@ -117,8 +117,3 @@ The model uses synthetic/realistic insurance claim datasets, including:
 
 ---
 
-## 👨‍💻 How to Run
-
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/fraud-detection-auto-insurance.git
